@@ -1,0 +1,5 @@
+
+   DirectorySlash Off
+   RewriteOptions AllowNoSlash
+
+   RewriteRule (.*) main.php
