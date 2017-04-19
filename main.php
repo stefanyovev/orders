@@ -1,6 +1,6 @@
 <?php
 
-      mysql_connect( 'localhost' , 'audiopr_webcore' , 'a1b2c3d4' )
+      mysql_connect( 'localhost' , '' , '' )
       
          or exit( mysql_error() );
          
